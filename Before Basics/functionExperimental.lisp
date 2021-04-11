@@ -1,0 +1,8 @@
+(defun square (x)
+  (* x x))
+(defun add (x)
+  (+ x x))
+(defun subtract (x)
+  (- 10 x))
+(defun cube (x)
+  (* x (* x x)))

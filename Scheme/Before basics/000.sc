@@ -1,0 +1,5 @@
+(display "Adding two numbers 2 and 2 = ")
+         (display (+ 2 2))(newline)
+(display "Adding two numbers 2 and 2 = ") 
+         (display (- 2 2))(newline)
+(display "Wow scheme is awesome")

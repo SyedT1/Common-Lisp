@@ -1,6 +1,0 @@
-(defun foo (x y z)
-  (+ x (+ y z)))
-(defun plural (x y z)
-  (* x (+ y z)))
-(defun transfer (x)
-  (sqrt x))

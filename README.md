@@ -12,3 +12,6 @@
 + [Main Stuff](https://common-lisp.net/tutorials)
 + [Clisp Awesome](https://github.com/CodyReichert/awesome-cl)  
 + [Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+
+### Good Articles to read
++ [betterprogramming](https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8)

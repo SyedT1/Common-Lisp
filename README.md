@@ -11,7 +11,7 @@
 
 + [Main Stuff](https://common-lisp.net/tutorials)
 + [Clisp Awesome](https://github.com/CodyReichert/awesome-cl)  
-+ [Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
++ [<span style="color:blue">some *blue* text</span>Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 + [Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf)
 
 ### Good Articles to read

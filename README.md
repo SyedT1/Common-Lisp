@@ -6,12 +6,12 @@
 
 ## [Emacs Wiki](https://www.emacswiki.org/)  
 
-### Resources 
+### [<span style="color:blue">some *blue* text</span>] 
 + [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
 
 + [Main Stuff](https://common-lisp.net/tutorials)
 + [Clisp Awesome](https://github.com/CodyReichert/awesome-cl)  
-+ [<span style="color:blue">some *blue* text</span>Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
++ [Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 + [Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf)
 
 ### Good Articles to read

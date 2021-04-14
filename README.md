@@ -6,7 +6,8 @@
 
 ## [Emacs Wiki](https://www.emacswiki.org/)  
 
-### [<span style="color:blue">some *blue* text</span>] 
+### ```diff
+- text in red ```
 + [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
 
 + [Main Stuff](https://common-lisp.net/tutorials)
